@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<!-- #BeginEditable "doctitle" -->
+<title></title>
+<!-- #EndEditable -->
+<link href="styles/style1.css" media="screen" rel="stylesheet" title="CSS" type="text/css" />
+<style type="text/css">
+.auto-style1 {
+	color: #FFFFFF;
+}
+.auto-style2 {
+	background-color: #0007FF;
+}
+.auto-style3 {
+	color: #FFFFFF;
+	background-color: #0000FF;
+}
+</style>
+</head>
+
+<body>
+
+<!-- Begin Container -->
+<div id="container">
+	<!-- Begin Masthead -->
+	<div id="masthead" class="auto-style2">
+		<img height="85" src="img5.gif" /><h1 class="auto-style1">
+		HERI WOMEN'S GROUP</h1>
+	</div>
+	<!-- End Masthead -->
+	<!-- Begin Navigation -->
+	<div id="navigation">
+		<ul>
+			<li><a href="Home Page.html">Home</a></li>
+			<li><a href="About Us Page.html">About</a></li>
+			<li><a href="Programs page.html">program</a></li>
+			<li><a href="Contact us page.html">contact</a></li>
+			<li style="width: 46px"><a href="Join our community page.html">Join</a></li>
+			<li><a href="Gallery page.html">Gallery</a></li>
+		</ul>
+	</div>
+	<!-- End Navigation -->
+	<!-- Begin Page Content -->
+	<div id="page_content">
+		<!-- Begin Left Column -->
+		<div id="column_l">
+			<!-- #BeginEditable "content" -->
+			<h2>Headline 2</h2>
+			<p>insert content here</p>
+			<!-- #EndEditable --></div>
+		<!-- End Left Column -->
+		<!-- End Right Column --->
+		<div id="column_r">
+			<!-- #BeginEditable "sidebar" -->
+			<h3>Our mission</h3>
+			<p>To provide girls with skills and knowledge they need to live&nbsp; 
+			sustainably and achieve their goals</p>
+			<p>
+			<img height="112" src="Herigrp%20Tings/image%206.jpeg" width="182" /></p>
+			<!-- #EndEditable --></div>
+		<!-- End Right Column -->&nbsp;</div>
+	<!-- End Page Content -->
+	<!-- Begin Footer -->
+	<div id="footer">
+		<marquee behavior="alternate" class="auto-style3">Copyright © 2024 Heri women's group. All Rights Reserved.</marquee>
+	</div>
+	<!-- End Footer --></div>
+<!-- End Container -->
+
+</body>
+
+</html>
